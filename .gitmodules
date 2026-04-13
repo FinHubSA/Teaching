@@ -2,8 +2,8 @@
 	path = mphil/ethereum-class-assignment-2025
 	url = https://github.com/FinHubSA/EthereumClassAssignment-2025.git
 [submodule "blockchain-basics"]
-	path = blockchain-basics
+	path = workshops/blockchain-basics
 	url = https://github.com/FinHubSA/blockchain-basics.git
 [submodule "open-payments-express"]
-	path = open-payments-express
+	path = workshops/open-payments-express
 	url = https://github.com/FinHubSA/open-payments-express.git
