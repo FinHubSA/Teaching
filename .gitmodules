@@ -4,3 +4,6 @@
 [submodule "blockchain-basics"]
 	path = blockchain-basics
 	url = https://github.com/FinHubSA/blockchain-basics.git
+[submodule "open-payments-express"]
+	path = open-payments-express
+	url = https://github.com/FinHubSA/open-payments-express.git
