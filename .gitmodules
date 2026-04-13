@@ -10,3 +10,6 @@
 [submodule "mphil/ethereum-class-exam-2025"]
 	path = mphil/ethereum-class-exam-2025
 	url = https://github.com/FinHubSA/ethereum-class-exam-2025.git
+[submodule "mphil/ethereum-class-workshop-2025"]
+	path = mphil/ethereum-class-workshop-2025
+	url = https://github.com/FinHubSA/ethereum-class-workshop-2025.git
