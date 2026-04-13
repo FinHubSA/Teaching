@@ -1,5 +1,5 @@
 [submodule "EthereumClassAssignment-2025"]
-	path = ethereum-class-assignment-2025
+	path = mphil/ethereum-class-assignment-2025
 	url = https://github.com/FinHubSA/EthereumClassAssignment-2025.git
 [submodule "blockchain-basics"]
 	path = blockchain-basics
