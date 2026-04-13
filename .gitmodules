@@ -13,3 +13,6 @@
 [submodule "mphil/ethereum-class-workshop-2025"]
 	path = mphil/ethereum-class-workshop-2025
 	url = https://github.com/FinHubSA/ethereum-class-workshop-2025.git
+[submodule "workshops/algorand-dev-workshop-2023"]
+	path = workshops/algorand-dev-workshop-2023
+	url = https://github.com/FinHubSA/algorand-dev-workshop-2023.git
