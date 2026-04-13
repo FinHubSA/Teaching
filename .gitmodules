@@ -7,3 +7,6 @@
 [submodule "open-payments-express"]
 	path = workshops/open-payments-express
 	url = https://github.com/FinHubSA/open-payments-express.git
+[submodule "mphil/ethereum-class-exam-2025"]
+	path = mphil/ethereum-class-exam-2025
+	url = https://github.com/FinHubSA/ethereum-class-exam-2025.git
